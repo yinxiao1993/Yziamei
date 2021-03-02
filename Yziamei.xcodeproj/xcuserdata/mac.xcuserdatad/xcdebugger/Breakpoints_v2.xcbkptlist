@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "066C4873-734A-4938-89D7-AAC54496D9E2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B44ED9B-9EB0-4170-BD0E-5E57DBB5078A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yziamei/ViewController/Home/tabbar03VC/&#x5546;&#x5b66;&#x9662;&#x542c;&#x8bfe;&#x8bb0;&#x5f55;/CourseDetailViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "-getDataMethod"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B44ED9B-9EB0-4170-BD0E-5E57DBB5078A - efa34741c509cc23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CourseDetailViewController getDataMethod]"
+                  moduleName = "Yziamei"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Yziamei/Yziamei/ViewController/Home/tabbar03VC/%E5%95%86%E5%AD%A6%E9%99%A2%E5%90%AC%E8%AF%BE%E8%AE%B0%E5%BD%95/CourseDetailViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "7777">
+               </Location>
+               <Location
+                  uuid = "4B44ED9B-9EB0-4170-BD0E-5E57DBB5078A - 767d1edcc2a38d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__43-[CourseDetailViewController getDataMethod]_block_invoke"
+                  moduleName = "Yziamei"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Yziamei/Yziamei/ViewController/Home/tabbar03VC/%E5%95%86%E5%AD%A6%E9%99%A2%E5%90%AC%E8%AF%BE%E8%AE%B0%E5%BD%95/CourseDetailViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E03FA780-DD61-4FF0-B091-364A2464E89E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yziamei/ViewController/Home/tabbar03VC/&#x5546;&#x5b66;&#x9662;&#x542c;&#x8bfe;&#x8bb0;&#x5f55;/CourseDetailViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "-getDataMethod"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3216F1D-E460-4457-94E7-31D1ADEE1FD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yziamei/ViewController/Home/tabbar03VC/&#x5546;&#x5b66;&#x9662;&#x542c;&#x8bfe;&#x8bb0;&#x5f55;/CourseDetailViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "-getDataMethod"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
